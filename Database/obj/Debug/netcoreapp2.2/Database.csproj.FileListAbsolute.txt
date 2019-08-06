@@ -1,0 +1,12 @@
+C:\C#.Net\Database\Database\bin\Debug\netcoreapp2.2\Database.deps.json
+C:\C#.Net\Database\Database\bin\Debug\netcoreapp2.2\Database.dll
+C:\C#.Net\Database\Database\obj\Debug\netcoreapp2.2\Database.csprojAssemblyReference.cache
+C:\C#.Net\Database\Database\obj\Debug\netcoreapp2.2\Database.csproj.CoreCompileInputs.cache
+C:\C#.Net\Database\Database\obj\Debug\netcoreapp2.2\Database.AssemblyInfoInputs.cache
+C:\C#.Net\Database\Database\obj\Debug\netcoreapp2.2\Database.AssemblyInfo.cs
+C:\C#.Net\Database\Database\bin\Debug\netcoreapp2.2\Database.pdb
+C:\C#.Net\Database\Database\bin\Debug\netcoreapp2.2\Support.dll
+C:\C#.Net\Database\Database\bin\Debug\netcoreapp2.2\Support.pdb
+C:\C#.Net\Database\Database\obj\Debug\netcoreapp2.2\Database.csproj.CopyComplete
+C:\C#.Net\Database\Database\obj\Debug\netcoreapp2.2\Database.dll
+C:\C#.Net\Database\Database\obj\Debug\netcoreapp2.2\Database.pdb

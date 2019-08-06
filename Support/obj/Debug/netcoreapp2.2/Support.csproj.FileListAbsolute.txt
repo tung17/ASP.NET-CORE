@@ -1,0 +1,9 @@
+C:\C#.Net\Database\Support\obj\Debug\netcoreapp2.2\Support.csprojAssemblyReference.cache
+C:\C#.Net\Database\Support\obj\Debug\netcoreapp2.2\Support.csproj.CoreCompileInputs.cache
+C:\C#.Net\Database\Support\obj\Debug\netcoreapp2.2\Support.AssemblyInfoInputs.cache
+C:\C#.Net\Database\Support\obj\Debug\netcoreapp2.2\Support.AssemblyInfo.cs
+C:\C#.Net\Database\Support\bin\Debug\netcoreapp2.2\Support.deps.json
+C:\C#.Net\Database\Support\bin\Debug\netcoreapp2.2\Support.dll
+C:\C#.Net\Database\Support\bin\Debug\netcoreapp2.2\Support.pdb
+C:\C#.Net\Database\Support\obj\Debug\netcoreapp2.2\Support.dll
+C:\C#.Net\Database\Support\obj\Debug\netcoreapp2.2\Support.pdb
